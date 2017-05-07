@@ -6,7 +6,7 @@ import (
 	"time"
 
 	hdfs "github.com/colinmarc/hdfs/protocol/hadoop_hdfs"
-	"github.com/colinmarc/hdfs/rpc"
+	"github.com/gurupras/hdfs/rpc"
 	"github.com/golang/protobuf/proto"
 )
 

@@ -7,7 +7,7 @@ import (
 	"os/user"
 
 	hdfs "github.com/colinmarc/hdfs/protocol/hadoop_hdfs"
-	"github.com/colinmarc/hdfs/rpc"
+	"github.com/gurupras/hdfs/rpc"
 )
 
 // A Client represents a connection to an HDFS cluster
