@@ -22,9 +22,9 @@ const (
 )
 
 var (
-	connectTimeout  = 1 * time.Second
-	namenodeTimeout = 3 * time.Second
-	datanodeTimeout = 3 * time.Second
+	connectTimeout  = 10 * time.Second
+	namenodeTimeout = 10 * time.Second
+	datanodeTimeout = 10 * time.Second
 )
 
 // Used for client ID generation, below.
